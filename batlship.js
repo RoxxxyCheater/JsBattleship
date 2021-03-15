@@ -227,6 +227,3 @@ controller.processGuess("D3");
 controller.processGuess("D4");
 
 */
-
-
-/*https://rt.pornhub.com/view_video.php?viewkey=ph5fcea9ba0ae13*/
